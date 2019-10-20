@@ -39,7 +39,7 @@ input{
 
 input:hover{
     color: aquamarine;
-    background: #5f6769;
+    background: #003f5c;
 }
 
 input[type=submit]
@@ -58,7 +58,7 @@ input[type=submit]
 input[type=submit]:hover
 {
     color: #fff;
-    background-color: black;
+    background-color: #fc7fb2;
 }
 
 h2{
@@ -67,7 +67,14 @@ h2{
 
 a{
     color: yellow;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
     text-decoration: blink;
+}
+
+.g{
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
 }
 
 a:hover

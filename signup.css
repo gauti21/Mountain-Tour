@@ -60,7 +60,7 @@ input[type=submit]
 input[type=submit]:hover
 {
     color: #fff;
-    background-color: black;
+    background-color: #f7be16;
 }
 
 h2{

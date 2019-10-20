@@ -65,6 +65,16 @@ h2{
     color: #fff;
 }
 
+a{
+    color: yellow;
+    text-decoration: blink;
+}
+
+a:hover
+{
+    color: skyblue;
+}
+
 ::placeholder{
     color: #f2eee5;
     opacity:0.8;
